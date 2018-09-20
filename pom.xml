@@ -3,11 +3,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mkyong</groupId>
-	<artifactId>CounterWebApp</artifactId>
+	<artifactId>install</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-		<plugin-group-id>:<plugin-artifact-id>[:<plugin-version>]:<goal>
-	<name>CounterWebApp Maven Webapp</name>
+		
+	<name>install webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<jdk.version>1.7</jdk.version>
@@ -74,7 +74,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>CounterWebApp</finalName>
+		<finalName>install webapp</finalName>
 
 		<plugins>
 		    <!-- Eclipse project -->
